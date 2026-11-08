@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "sdcore-nrf-operator",
+  "versions": [
+    {
+      "commit": "09413b5be74a693ce82258414a63f6732e48575f",
+      "tag": "",
+      "parsed_at": "2026-11-08T14:51:43.861126+00:00"
+    }
+  ]
+}
