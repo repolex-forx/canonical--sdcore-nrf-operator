@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-nrf-operator/commit/09413b5be74a693ce82258414a63f6732e48575f",
       "git:hexsha": "09413b5be74a693ce82258414a63f6732e48575f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/canonical/sdcore-nrf-operator/commit/12e0e8560261af2658c1217bf944cfcb782a94fa",
